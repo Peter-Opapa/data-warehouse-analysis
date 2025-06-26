@@ -1,6 +1,7 @@
 /*  
 
 -- Database Exploration
+============================================================
 -- Purpose: Explore database structure: list tables and inspect column metadata.
 -- Tables Used:
 --   - INFORMATION_SCHEMA.TABLES
@@ -13,7 +14,7 @@ USE DataWarehouse;
 SELECT *
 FROM INFORMATION_SCHEMA.TABLES;
 
--- Retrieve all columns for a specific table (dim_customers)
+-- Retrieving all columns for a specific table (dim_customers)
 SELECT *
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'dim_customers';
