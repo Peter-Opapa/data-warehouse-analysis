@@ -1,13 +1,10 @@
 
 # 📊 SQL Analytics & EDA Project
+This project is a continuation of my [SQL Server Data Warehouse Project](https://github.com/Peter-Opapa/sql-server-data-warehouse-project), where I built a modern data warehouse. In this project, I focus on analysis using the business-ready data from the Gold layer from the Data Warehouse Projet.
+
 
 This repository is a personal collection of **SQL scripts** I've written for **data exploration, analysis, and reporting**. These scripts help me gain insights from relational databases using **best-practice SQL techniques** quickly.
 
----
-
-## 🎯 Objective
-
-My goal with this project is to build a **comprehensive and reusable SQL toolkit** for common analytical needs in business intelligence and data analysis.
 ---
 
 ## 📁 What's Included
