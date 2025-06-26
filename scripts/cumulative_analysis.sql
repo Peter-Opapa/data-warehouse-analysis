@@ -9,7 +9,7 @@ Purpose:
 SQL Window Functions Used: SUM() OVER(), AVG() OVER()
 */
 
--- Calculate the total sales per month 
+-- Calculating the total sales per month 
 -- and the running total of sales over time
 SELECT
 	order_date,
